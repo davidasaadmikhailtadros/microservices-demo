@@ -189,7 +189,7 @@ spec:
   selector:
     matchLabels:
       app: productcatalogservice
-  replicas: 5
+  replicas: 3
   template:
     metadata:
       labels:
